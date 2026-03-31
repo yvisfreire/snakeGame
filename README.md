@@ -38,4 +38,4 @@ A version of the classic "Snake" game developed in Lua using the LÖVE framework
 - **Sound Fx**:
   - Made on https://sfxr.me/ sfx generator
 - **Music**:
-  - Made by me (https://www.youtube.com/watch?v=3YM4MK9XZvA)
+  - Made by me ([audio with music sheet](https://www.youtube.com/watch?v=3YM4MK9XZvA))
